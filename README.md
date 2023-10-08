@@ -40,3 +40,22 @@ To make CLAI easily accessible, follow these steps:
    ```bash
    sudo chmod +x /usr/local/bin/clai
 
+## License
+
+This library is licensed under the MIT License. See the LICENSE file for more details.
+
+## Acknowledgements
+
+This library is built upon various open-source packages and technologies. We would like to express our gratitude to the developers and contributors of those projects.
+
+## Celsus-AI
+
+Celsus-AI aims to develop AI-based libraries, tools, and products to make life easier with AI. Our goal is to empower developers and users by providing innovative solutions that leverage artificial intelligence. We believe in harnessing the power of AI to simplify complex tasks, automate processes, and unlock new possibilities across various domains. Join us on this journey to explore the frontiers of AI and create a smarter future.
+
+## Contact
+
+If you have any questions or feedback, feel free to contact us at harunkelesoglu_@hotmail.com.
+
+Enjoy using celsus-ai/clai and simplify your cli experience with ai-powered assistance!
+
+
