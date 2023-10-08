@@ -25,3 +25,18 @@ To use CLAI, follow these steps:
 
    ```bash
    ./clai.sh "User's message goes here."
+
+## Installation Instructions
+
+To make CLAI easily accessible, follow these steps:
+
+1. Move the CLAI script to the `/usr/local/bin` directory:
+   
+   ```bash
+   sudo mv clai.sh /usr/local/bin/clai
+
+2. Make the script executable:
+
+   ```bash
+   sudo chmod +x /usr/local/bin/clai
+
