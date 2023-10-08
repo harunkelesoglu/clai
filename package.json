@@ -1,0 +1,11 @@
+{
+  "name": "clai",
+  "version": "1.0.0",
+  "description": "Artificial intelligence assistant for developers who prefer CLI over UI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
