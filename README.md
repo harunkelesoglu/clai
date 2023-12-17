@@ -42,16 +42,11 @@ To make CLAI easily accessible, follow these steps:
 
 ## License
 
-This library is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Author
 
-This library is built upon various open-source packages and technologies. We would like to express our gratitude to the developers and contributors of those projects.
-
-## Contact
-
-If you have any questions or feedback, feel free to contact us at harun.kelesoglu19@gmail.com.
-
-Enjoy using clai and simplify your cli experience with ai-powered assistance!
+- Harun Keleşoğlu
+- Contact: harun.kelesoglu19@gmail.com
 
 
